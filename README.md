@@ -1,6 +1,9 @@
 # AirBnB clone - The console
 
-This project is a ALX exercice in Python. This is the first step towards building our first full web application: the AirBnB clone.
+AirBnB clone is a complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.
+
+The project currently only implements the back-end console.
+[![Alt-Text](/logo.png)](https://your-destination.com)
 
 <ul>
 <li>Stephen Nderitu</li>
