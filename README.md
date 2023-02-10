@@ -415,5 +415,5 @@ Write all unittests for console.py, all features!
 </br>
 </br>
 # AUTHORS
-1) [Getinet Amare](https://github.com/gama1221)
-2) [Nene Eye](https://github.com/neneeye)
+1) [Getinet Amare](<https://github.com/gama1221>)
+2) [Nene Eye](<https://github.com/neneeye>)
