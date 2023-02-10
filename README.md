@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-This project is a school exercice in Python. This is the first step towards building our first full web application: the AirBnB clone.
+This project is a ALX exercice in Python. This is the first step towards building our first full web application: the AirBnB clone.
 
 <ul>
 <li>Stephen Nderitu</li>
