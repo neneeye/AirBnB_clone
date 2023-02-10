@@ -280,4 +280,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 # AUTHORS
 * **Getinet Amare** <[Getinet Amare](https://github.com/gama1221)>
-* **Nene Eye** <[Ekemini FELIX](https://github.com/neneeye)>
+* **Nene Eye** <[Nene Eye](https://github.com/neneeye)>
