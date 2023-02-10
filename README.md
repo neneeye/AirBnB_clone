@@ -279,5 +279,5 @@ Alternatively, you can specify a single test file to run at a time:
 $ python3 unittest -m tests/test_console.py
 ```
 # AUTHORS
-1) [Getinet Amare](<https://github.com/gama1221>)
-2) [Nene Eye](<https://github.com/neneeye>)
+* **Getinet Amare** <[Getinet Amare](https://github.com/gama1221)>
+* **Nene Eye** <[Ekemini FELIX](https://github.com/neneeye)>
