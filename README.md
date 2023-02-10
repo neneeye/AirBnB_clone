@@ -414,3 +414,6 @@ Update your command interpreter (console.py) to update an instance based on his 
 Write all unittests for console.py, all features!
 </br>
 </br>
+# AUTHORS
+1) [Getinet Amare](https://github.com/gama1221)
+2) [Nene Eye](https://github.com/neneeye)
