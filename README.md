@@ -1,9 +1,8 @@
 # AirBnB clone - The console
-
+[![Alt-Text](/logo.png)](https://your-destination.com)
 AirBnB clone is a complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
-[![Alt-Text](/logo.png)](https://your-destination.com)
 
 <ul>
 <li>Stephen Nderitu</li>
