@@ -3,9 +3,8 @@ footer {
     height: 60px;
     width: 100%;
     border-top: 1px solid #CCCCCC;
-    position: absolute;
+    position: fixed;
     bottom: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    line-height: 60px;
 }
